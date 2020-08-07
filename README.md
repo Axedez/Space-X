@@ -11,3 +11,5 @@
 ### Parallax effect(plugin): https://dixonandmoe.com/rellax/
 
 ### Video background(plugin): https://github.com/blakewilson/vidbg
+
+### AOS Animation: https://michalsnik.github.io/aos/
